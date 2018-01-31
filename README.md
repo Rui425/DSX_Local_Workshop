@@ -6,22 +6,22 @@ This repository contains several lab subfolders. Some labs include notebooks and
 
 ## Prerequisites
 1. Knowledge of analytics. These labs do not teach you the basics of analytics or how to implement analytics in R, Python and SPSS. The purpose of this workshop is to provide hands-on experience with analytics tools and deployment functions in DSX. 
-2. To run this workshop you need an instance of DSX Local. **Please note that while most code is the same between DSX Local and DSX Cloud, the notebooks included in sample projects will work in DSX Local only**
+2. To run this workshop you need an instance of DSX Local. 
 3. Download and unzip this [this repository](https://codeload.github.com/elenalowery/DSX_Local_Workshop/zip/master). Unzip the repository only, not files in subfolders. 
 
 ### Setting up lab projects in DSX Local
-1. Rename **DSX_Local_Workshop.zip** located in **DSX_Local_Projects** folder of the unzipped repository to a unique name, for example, add your initials.    *Note: Project names in DSX Local cluster must be unique. When we create a project "from file", the project name is inherited from the file name*. 
+1. In the **DSX_Local_Projects** folder, locate the **DSX_Local_Workshop.zip** file and rename it to give it a unique name.  For example, add your initials.    *Note: Project names in DSX Local cluster must be unique. When we create a project "from file", the project name is inherited from the file name*.
 2. Log in to DSX Local.
 3. Select "Create New Project" and select "From File".
 4. Browse to the .zip file and click **Create**.
 ![ProjectFromFile](/img/CreateProjectFromFile.JPG?raw=true).
 
-### Use Case 1: Improve customer retention (SparkML models in Jupyter/Python)
+### Use Case 1: Build and Deploy SparkML Models
 1. Open the project you just created. 
 2. Navigate to **Assets** view and open **TelcoChurn_SparkML** *Jupyter* notebook. This notebook has been implemented for the Python 2.7 runtime. You can verify the runtime by running the first cell in the notebook. 
 3. Follow instructions in the notebook.
 
-### Use Case 2: Improve operational efficiency (Scikit-learn and SparkML models in Jupyter/Python)
+### Use Case 2: Build and Deploy Scikit-Learn Models
 1. Open the project you just created. 
 2. Navigate to **Assets** view and open **CreditCardDefault_SkLearn** notebook. If you want to stay with the telco churn example, you can work through the **TelcoChurn_SkLearn** notebook. 
 3. Follow instructions in the notebook.
