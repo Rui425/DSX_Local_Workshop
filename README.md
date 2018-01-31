@@ -16,17 +16,17 @@ This repository contains several lab subfolders. Some labs include notebooks and
 4. Browse to the .zip file and click **Create**.
 ![ProjectFromFile](/img/CreateProjectFromFile.JPG?raw=true).
 
-### Use Case 1: Build and Deploy SparkML Models (Jupyter/Python)
+### Use Case 1: Build, Save and Test SparkML Models (Jupyter/Python)
 1. Open the project you just created. 
 2. Navigate to **Assets** view and open **TelcoChurn_SparkML** *Jupyter* notebook. This notebook has been implemented for the Python 2.7 runtime. You can verify the runtime by running the first cell in the notebook. 
 3. Follow instructions in the notebook.
 
-### Use Case 2: Build and Deploy Scikit-Learn Models (Jupyter/Python)
+### Use Case 2: Build, Save and Test Scikit-Learn Models (Jupyter/Python)
 1. Open the project you just created. 
 2. Navigate to **Assets** view and open **CreditCardDefault_SkLearn** notebook. If you want to stay with the telco churn example, you can work through the **TelcoChurn_SkLearn** notebook. 
 3. Follow instructions in the notebook.
 
-### Use Case 3: Build and Deploy SparkML models (Zeppelin/Python)
+### Use Case 3: Build, Save and Test SparkML models (Zeppelin/Python)
 1. Open the project you just created. 
 2. Navigate to **Assets** view and open **TelcoChurn_Zeppelin** notebook.
 3. Follow instructions in the notebook.
@@ -34,7 +34,7 @@ This repository contains several lab subfolders. Some labs include notebooks and
 ### Use Case 4: Batch deployment of analytics (Batch Scoring in DSX)
 1. Follow instructions in the **DSX_Batch_Scoring.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
 
-### Use Case 5: DSX - a platform that supports analytics application lifecycle (Model Evaluation in DSX)
+### Use Case 5: Model Evaluation
 1. Follow instructions in the **DSX_Evaluation_in_DSX.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
 
 ### Use Case 6: Improve customer retention and fraud prevention (SPSS Modeler in DSX)
