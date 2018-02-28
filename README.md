@@ -27,9 +27,9 @@ This repository contains several lab subfolders. Some labs include notebooks and
 3. Follow instructions in the notebook.
 
 ### Lab 3: Build, Save and Test Scikit-Learn Models (Jupyter/Python)
-1. Open the project you just created. 
-2. Navigate to **Assets** view and open **CreditCardDefault_SkLearn** notebook. If you want to stay with the telco churn example, you can work through the **TelcoChurn_SkLearn** notebook. 
-3. Follow instructions in the notebook.
+1. Add the **CreditCardDefault_SkLearn** notebook from URL, https://raw.githubusercontent.com/SidneyPhoon/DSX_Local_Workshop/master/Analytic_Assets/CreditCardDefault_SkLearn.jupyter.ipynb
+![ProjectFromFile](/img/import_notebook_url.png?raw=true).
+2. Follow instructions in the notebook.
 
 ### Lab 3: Build, Save and Test SparkML models (Zeppelin/Python)
 1. Open the project you just created. 
