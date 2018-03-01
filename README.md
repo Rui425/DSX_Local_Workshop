@@ -37,7 +37,7 @@ This repository contains several lab subfolders. Some labs include notebooks and
 2. Follow instructions in the notebook.
 
 ### Lab 5: SPSS Modeler in DSX
-1. Follow instructions in the SPSS_Modeler_in_DSX.pdf document in the Lab Instructions folder of the unzipped repository
+1. Follow instructions in the [SPSS_Modeler_in_DSX.pdf](https://github.com/SidneyPhoon/DSX_Local_Workshop/blob/master/Lab%20Instructions/SPSS_Modeler_in_DSX.pdf) document in the Lab Instructions folder of the unzipped repository
 
 ### Lab 5: Batch Scoring in DSX
 1. Follow instructions in the **DSX_Batch_Scoring.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
