@@ -36,7 +36,10 @@ This repository contains several lab subfolders. Some labs include notebooks and
 ![ProjectFromFile](/img/import_zeppelin_url.png?raw=true).
 2. Follow instructions in the notebook.
 
-### Lab 5: SPSS Modeler in DSX
+### Lab 5: Build R models in Jupyter and deploy into Shiny App
+1. Download the [DS_for_Automotive.zip])https://github.com/SidneyPhoon/DSX_Local_Workshop/tree/master/DSX%20Local%20Projects)
+
+### Lab 6: SPSS Modeler in DSX
 1. Follow instructions in the [SPSS_Modeler_in_DSX.pdf](https://github.com/SidneyPhoon/DSX_Local_Workshop/blob/master/Lab%20Instructions/SPSS_Modeler_in_DSX.pdf) document in the Lab Instructions folder of the unzipped repository
 
 ### Lab 5: Batch Scoring in DSX
