@@ -38,14 +38,14 @@ This repository contains several lab subfolders. Some labs include notebooks and
 
 ### Lab 5: Build R models in Jupyter and deploy into Shiny App
 1. Download the [DS_for_Automotive.zip](https://github.com/SidneyPhoon/DSX_Local_Workshop/blob/master/DSX%20Local%20Projects/DS_for_Automotive.zip?raw=true)
-2.  Follow instructions in the [R_in_DSX.pdf](https://github.com/SidneyPhoon/DSX_Local_Workshop/blob/master/Lab%20Instructions/R_in_DSX.pdf)
+2.  Follow instructions in the **[R_in_DSX.pdf](https://github.com/SidneyPhoon/DSX_Local_Workshop/blob/master/Lab%20Instructions/R_in_DSX.pdf)**
 
 ### Lab 6: SPSS Modeler in DSX
 1. Download the [data](https://github.com/SidneyPhoon/DSX_Local_Workshop/tree/master/SPSS%20Modeler/data) and [streams](https://github.com/SidneyPhoon/DSX_Local_Workshop/tree/master/SPSS%20Modeler/streams)
-2. Follow instructions in the [SPSS_Modeler_in_DSX.pdf](https://github.com/SidneyPhoon/DSX_Local_Workshop/blob/master/Lab%20Instructions/SPSS_Modeler_in_DSX.pdf) document in the Lab Instructions folder of the unzipped repository
+2. Follow instructions in the **[SPSS_Modeler_in_DSX.pdf](https://github.com/SidneyPhoon/DSX_Local_Workshop/blob/master/Lab%20Instructions/SPSS_Modeler_in_DSX.pdf)**
 
 ### Lab 7: Batch Scoring in DSX
-1. Follow instructions in the **[DSX_Batch_Scoring.pdf](https://github.com/SidneyPhoon/DSX_Local_Workshop/blob/master/Lab%20Instructions/DSX_Batch_Scoring.pdf)** document in the **Lab Instructions** folder. 
+1. Follow instructions in the **[DSX_Batch_Scoring.pdf](https://github.com/SidneyPhoon/DSX_Local_Workshop/blob/master/Lab%20Instructions/DSX_Batch_Scoring.pdf)**. 
 
 ### Lab 8: Model Evaluation
 1. Follow instructions in the **[DSX_Evaluation_in_DSX.pdf](https://github.com/SidneyPhoon/DSX_Local_Workshop/blob/master/Lab%20Instructions/DSX_Evaluation_in_DSX.pdf)** 
