@@ -32,9 +32,8 @@ This repository contains several lab subfolders. Some labs include notebooks and
 2. Follow instructions in the notebook.
 
 ### Lab 3: Build, Save and Test SparkML models (Zeppelin/Python)
-1. Open the project you just created. 
-2. Navigate to **Assets** view and open **TelcoChurn_Zeppelin** notebook.
-3. Follow instructions in the notebook.
+1. Add the **TelcoChurn_Zeppelin** note from URL, https://raw.githubusercontent.com/SidneyPhoon/DSX_Local_Workshop/master/Analytic_Assets/TelcoChurn_Zeppelin.json 
+2. Follow instructions in the notebook.
 
 ### Lab 4: SPSS Modeler in DSX
 1. Follow instructions in the SPSS_Modeler_in_DSX.pdf document in the Lab Instructions folder of the unzipped repository
