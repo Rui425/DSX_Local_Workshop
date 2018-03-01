@@ -27,12 +27,12 @@ This repository contains several lab subfolders. Some labs include notebooks and
 3. Follow instructions in the notebook.
 
 ### Lab 3: Build, Save and Test Scikit-Learn Models (Jupyter/Python)
-1. Add the **CreditCardDefault_SkLearn** notebook from URL, https://raw.githubusercontent.com/SidneyPhoon/DSX_Local_Workshop/master/Analytic_Assets/CreditCardDefault_SkLearn.jupyter.ipynb
+1. In your DSX_Local_Workshop Project, add the **CreditCardDefault_SkLearn** notebook from URL, https://raw.githubusercontent.com/SidneyPhoon/DSX_Local_Workshop/master/Analytic_Assets/CreditCardDefault_SkLearn.jupyter.ipynb
 ![ProjectFromFile](/img/import_notebook_url.png?raw=true).
 2. Follow instructions in the notebook.
 
 ### Lab 4: Build, Save and Test SparkML models (Zeppelin/Python)
-1. Add the **TelcoChurn_Zeppelin** note from URL, https://raw.githubusercontent.com/SidneyPhoon/DSX_Local_Workshop/master/Analytic_Assets/TelcoChurn_Zeppelin.json 
+1. In your DSX_Local_Workshop Project, add the **TelcoChurn_Zeppelin** note from URL, https://raw.githubusercontent.com/SidneyPhoon/DSX_Local_Workshop/master/Analytic_Assets/TelcoChurn_Zeppelin.json 
 ![ProjectFromFile](/img/import_zeppelin_url.png?raw=true).
 2. Follow instructions in the notebook.
 
@@ -41,7 +41,8 @@ This repository contains several lab subfolders. Some labs include notebooks and
 2.  Follow instructions in the [R_in_DSX.pdf](https://github.com/SidneyPhoon/DSX_Local_Workshop/blob/master/Lab%20Instructions/R_in_DSX.pdf)
 
 ### Lab 6: SPSS Modeler in DSX
-1. Follow instructions in the [SPSS_Modeler_in_DSX.pdf](https://github.com/SidneyPhoon/DSX_Local_Workshop/blob/master/Lab%20Instructions/SPSS_Modeler_in_DSX.pdf) document in the Lab Instructions folder of the unzipped repository
+1. Download the [data](https://github.com/SidneyPhoon/DSX_Local_Workshop/tree/master/SPSS%20Modeler/data) and [stream](https://github.com/SidneyPhoon/DSX_Local_Workshop/tree/master/SPSS%20Modeler/stream)
+2. Follow instructions in the [SPSS_Modeler_in_DSX.pdf](https://github.com/SidneyPhoon/DSX_Local_Workshop/blob/master/Lab%20Instructions/SPSS_Modeler_in_DSX.pdf) document in the Lab Instructions folder of the unzipped repository
 
 ### Lab 5: Batch Scoring in DSX
 1. Follow instructions in the **DSX_Batch_Scoring.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
